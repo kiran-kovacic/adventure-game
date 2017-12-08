@@ -16,7 +16,7 @@ function onloadGame()
   audio.src             = "audio/stationsong.mp3";
   levelTitle.innerHTML  = "METRO 2029";
   levelImg.src          = "img/start.jpg";
-  levelText.innerHTML   = "It's 2029 you live in Dobrynin one of the metro stations of moscow. People live in the metro because moscow a nuclear wasteland after it was bombed in 2013. There is a exploration team missing in D6(a secret military metroline/ base). You have to find them with Youri, Boris and Vladimir. Good luck in the metro.";
+  levelText.innerHTML   = "It's 2029 you live in Dobrynin one of the metro stations of Moscow. People live in the metro because Moscow a nuclear wasteland after it was bombed in 2013. There is a exploration team missing in D6(a secret military metroline/ base). You have to find them with Youri, Boris and Vladimir. Good luck in the metro.";
   console.log(levelTitle);
   option1.style.display = "block";
   option1.innerHTML     = "START GAME";
