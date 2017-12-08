@@ -759,7 +759,7 @@ function defenceMinistry4()
 
 function defenceMinistry5()
 {
-  audio.src             = "audio/knocking.mp3";
+  audio.src             = "audio/knockingmonster.mp3";
   levelText.innerHTML   = levelText.innerHTML + "<br>Vladimir:    Good idea. Boris knock three time on the gate.";
   option1.setAttribute("onclick", "defenceMinistry6()");
 }
